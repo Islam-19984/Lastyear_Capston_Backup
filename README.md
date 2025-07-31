@@ -184,33 +184,25 @@ Troubleshooting
 
 Common Issues:
 
-Issue 1: Model Download Failures
-
-Solution: Manual model installation
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-python -m spacy download en_core_web_sm
-
-
-Issue 2: MongoDB Connection Errors
-bash
+Issue 1: MongoDB Connection Errors
 Check MongoDB status
 Windows: sc query MongoDB
 macOS: brew services list | grep mongodb
 Linux: systemctl status mongod
 
 
-Issue 3: Memory Issues
+Issue 2: Memory Issues
 - Reduce batch size in enhanced_nlp_processor.py
 - Use CPU-only PyTorch installation for lower memory usage
 - Ensure 4GB+ RAM available
 
-Issue 4: Port Already in Use
+Issue 3: Port Already in Use
 bash
 Change port in app.py
 app.run(host='0.0.0.0', port=5001, debug=True)
 
 
-Issue 5: Extension Not Loading
+Issue 4: Extension Not Loading
 - Ensure Developer mode is enabled in Chrome
 - Check that you're selecting the correct `extension` folder
 - Refresh the extensions page after loading
@@ -256,7 +248,6 @@ For technical support or questions:
 Links
 
 - GitHub Repository: https://github.com/Islam-19984/Lastyear_Capston_Backup.git
-- Video Demonstration: https://youtu.be/xPr6uuZw5es
 
 
 Join the fight against greenwashing with GreenGuard!
