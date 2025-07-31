@@ -61,7 +61,7 @@ Backend API Setup
 
 Step 1: Clone Repository
 git clone https://github.com/Islam-19984/Lastyear_Capstone_Backup.git
-cd greenguard-backend
+cd greenguard-mvp-backup then cd backend
 
 Step 2: Create Virtual Environment
 Windows
@@ -102,7 +102,7 @@ Step 1: Download the Extension
 - Download this repository as a ZIP file or clone it
 - Extract the ZIP file to a folder on your computer
 
-#### Step 2: Enable Developer Mode in Chrome
+Step 2: Enable Developer Mode in Chrome
 - Open Google Chrome browser
 - Navigate to chrome://extensions in the address bar
 - Toggle Developer mode ON (top-right corner)
@@ -255,7 +255,7 @@ For technical support or questions:
 
 Links
 
-- GitHub Repository: https://github.com/Islam-19984/Lastyear_capstone_backup.git
+- GitHub Repository: https://github.com/Islam-19984/Lastyear_Capstone_Backup.git
 - Video Demonstration: https://youtu.be/xPr6uuZw5es
 
 
