@@ -60,7 +60,7 @@ Installation Instructions
 Backend API Setup
 
 Step 1: Clone Repository
-git clone https://github.com/Islam-19984/Lastyear_Capstone_Backup.git
+git clone https://github.com/Islam-19984/Lastyear_Capston_Backup.git
 cd greenguard-mvp-backup then cd backend
 
 Step 2: Create Virtual Environment
@@ -255,7 +255,7 @@ For technical support or questions:
 
 Links
 
-- GitHub Repository: https://github.com/Islam-19984/Lastyear_Capstone_Backup.git
+- GitHub Repository: https://github.com/Islam-19984/Lastyear_Capston_Backup.git
 - Video Demonstration: https://youtu.be/xPr6uuZw5es
 
 
