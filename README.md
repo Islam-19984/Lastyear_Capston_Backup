@@ -60,7 +60,7 @@ Installation Instructions
 Backend API Setup
 
 Step 1: Clone Repository
-git clone https://github.com/Islam-19984/Lastyear_capstone_backup.git
+git clone https://github.com/Islam-19984/Lastyear_Capstone_Backup.git
 cd greenguard-backend
 
 Step 2: Create Virtual Environment
@@ -200,7 +200,7 @@ Linux: systemctl status mongod
 
 
 Issue 3: Memory Issues
-- Reduce batch size in `enhanced_nlp_processor.py`
+- Reduce batch size in enhanced_nlp_processor.py
 - Use CPU-only PyTorch installation for lower memory usage
 - Ensure 4GB+ RAM available
 
@@ -238,7 +238,7 @@ Contributing
 
 Development Setup:
 1. Fork the repository
-2. Create feature branch: `git checkout -b feature-name`
+2. Create feature branch: git checkout -b feature-name
 3. Make your changes
 4. Submit pull request
 
